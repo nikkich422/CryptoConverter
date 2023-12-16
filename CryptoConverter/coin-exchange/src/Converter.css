@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.crypto-card{
+    min-width: 400px;
+}
+
+.select-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
